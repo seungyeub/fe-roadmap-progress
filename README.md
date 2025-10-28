@@ -49,3 +49,9 @@ fe-roadmap-progress/
 1. 매일 _templates/daily_log_template.md를 복사해 study_log/에 생성
 2. 주간 말에 weekly_summary_template.md로 회고 작성
 3. progress_table.md 체크박스를 업데이트하고, 주요 링크는 [fe-roadmap-blueprint](https://github.com/seungyeub/fe-roadmap-blueprint)로 연결
+
+---
+
+## 🧩 License
+
+본 저장소는 MIT License를 따릅니다. 자세한 내용은 [`LICENSE`](https://github.com/seungyeub/fe-roadmap-progress/blob/master/LICENSE)를 확인해 주세요.
