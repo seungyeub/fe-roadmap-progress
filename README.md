@@ -3,7 +3,7 @@
 > 학습 계획과 진행 상황을 **템플릿·표**로 추적하는 저장소입니다.  
 > 설계 문서: [`fe-roadmap-blueprint`](https://github.com/seungyeub/fe-roadmap-blueprint) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
-🕒 **마지막 갱신:** 2025-10-25
+🕒 **마지막 갱신:** 2025-10-29
 
 ---
 
@@ -48,7 +48,7 @@ fe-roadmap-progress/
 
 1. 매일 _templates/daily_log_template.md를 복사해 study_log/에 생성
 2. 주간 말에 weekly_summary_template.md로 회고 작성
-3. progress_table.md 체크박스를 업데이트하고, 주요 링크는 [fe-roadmap-blueprint](https://github.com/seungyeub/fe-roadmap-blueprint)로 연결
+3. progress_table.md 체크박스를 업데이트하고, 주요 링크는 [`fe-roadmap-blueprint`](https://github.com/seungyeub/fe-roadmap-blueprint)로 연결
 
 ---
 
