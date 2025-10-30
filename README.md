@@ -5,6 +5,8 @@
 
 🕒 **마지막 갱신:** 2025-10-29
 
+![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-blueprint?label=last%20updated)
+
 ---
 
 ## 📘 Repository Overview
