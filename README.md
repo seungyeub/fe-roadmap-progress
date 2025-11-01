@@ -3,7 +3,7 @@
 > 학습 계획과 진행 상황을 **템플릿·표**로 추적하는 저장소입니다.  
 > 설계 문서: [`fe-roadmap-blueprint`](https://github.com/seungyeub/fe-roadmap-blueprint) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
-🕒 **마지막 갱신:** 2025-10-30
+🕒 **마지막 갱신:** 2025-11-01
 
 ![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-progress?label=last%20updated)
 
@@ -37,8 +37,8 @@ fe-roadmap-progress/
 │   │   ├── daily_log_template.md
 │   │   └── weekly_summary_template.md
 │   └── study_log/
-│       ├── 2025-10-17.md
-│       ├── 2025-10-18.md
+│       ├── 2025-11-01.md
+│       ├── 2025-11-02.md
 │       └── week_01_summary.md
 ├── LICENSE
 └── README.md
