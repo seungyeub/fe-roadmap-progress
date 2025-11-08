@@ -1,11 +1,9 @@
-# 📊 FE Roadmap Progress
+# 📊 FE Roadmap Progress ![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-progress?label=last%20updated)
 
 > 학습 계획과 진행 상황을 **템플릿·표**로 추적하는 저장소입니다.  
 > 설계 문서: [`fe-roadmap-blueprint`](https://github.com/seungyeub/fe-roadmap-blueprint) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
 🕒 **마지막 갱신:** 2025-11-03
-
-![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-progress?label=last%20updated)
 
 ---
 
