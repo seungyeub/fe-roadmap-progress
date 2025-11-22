@@ -1,6 +1,6 @@
 # 📊 FE Roadmap Progress ![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-progress?label=last%20updated)
 
-> 학습 계획과 진행 상황을 **템플릿·표**로 추적하는 저장소입니다.  
+> 학습 계획과 진행 상황을 **템플릿·표**로 추적하는 저장소입니다.
 > 설계 문서: [`fe-roadmap-blueprint`](https://github.com/seungyeub/fe-roadmap-blueprint) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
 🕒 **마지막 갱신:** 2025-11-16
@@ -8,6 +8,7 @@
 ---
 
 ## 📘 Repository Overview
+
 - **역할:** 일일/주차별 학습 기록과 진행률 관리
 - **구성:** 가이드(개요/계획), 템플릿(일일/주간), 로그, 진행표
 - **원칙:** 로그는 짧고 꾸준히, 주간에 요약/리팩터를 수행
@@ -15,6 +16,7 @@
 ---
 
 ## 🧱 Main Sections
+
 - **00_Guides**
   - `roadmap_overview.md` — 전체 커리큘럼 요약(링크는 blueprint)
   - `study_schedule.md` — 주차별 상세 계획(체크박스)
@@ -25,6 +27,7 @@
 ---
 
 ## 📂 Folder Structure
+
 ```bash
 fe-roadmap-progress/
 ├── 00_Guides/
